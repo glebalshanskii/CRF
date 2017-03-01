@@ -1,4 +1,4 @@
-# Введение в Condotional Random Fields (CRF)
+# Введение в Conditional Random Fields (CRF)
 
 from [Introduction to Conditional Random Fields](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
 
